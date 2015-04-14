@@ -2,11 +2,6 @@ bin/*
 lib/*
 include/*
 pyvenv.cfg
-CHANGELOG.txt
-LICENSE.txt
-README.html
-examples/
 man/
 pip-selfcheck.json
 share/
-
