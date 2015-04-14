@@ -1,6 +1,6 @@
 # faNFL
 
-#### – Exploring the possibilities of predicting NFL player performance for fantasy NFL
+#### Exploring the possibilities of predicting NFL player performance for fantasy NFL
 
 [Greg Sieranski](http://wonbyte.com) (1) and [Samuel John](http://samueljohn.de) (2)
 
