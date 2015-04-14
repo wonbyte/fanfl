@@ -21,15 +21,13 @@ with pip , a relatively painless way to install all the requirements is to use
 downloaded and installed for free.
 
 ## Downloading the Tutorial Materials
-We highly recommend using git. You can clone the material in this tutorial by using the git address shown above:
+You can clone the material in this tutorial by using the git address shown below:
 
     git clone git://github.com/wonbyte/fanfl.git
 
 We will actively be making changes to the repository and welcome any and all pull requests
 that help to enhance the project. If you have any questions please feel free to contact either of
 us. In order to keep the ipython notebooks manageable in git, we are using a git attribute to strip
-the output cell contents from all checked in work. If you would like to contribute please make sure to add
-the following to your repository **.git/config**:
+the output cell contents from all checked in work. If you would like to contribute please make sure to run the **setup_git_strip_notebook_output_filter.sh**
 
-    [filter "stripoutput"]
-        clean = "path/to/strip_notebook_output"
+
