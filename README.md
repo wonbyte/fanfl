@@ -28,6 +28,8 @@ You can clone the material in this tutorial by using the git address shown below
 We will actively be making changes to the repository and welcome any and all pull requests
 that help to enhance the project. If you have any questions please feel free to contact either of
 us. In order to keep the ipython notebooks manageable in git, we are using a git attribute to strip
-the output cell contents from all checked in work. If you would like to contribute please make sure to run the **setup_git_strip_notebook_output_filter.sh**
+the output cell contents from all checked in work. If you would like to contribute please make sure 
+    
+    source setup_git_strip_notebook_output_filter.sh
 
 
