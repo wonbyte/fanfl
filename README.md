@@ -29,7 +29,7 @@ We will actively be making changes to the repository and welcome any and all pul
 that help to enhance the project. If you have any questions please feel free to contact either of
 us. In order to keep the ipython notebooks manageable in git, we are using a git attribute to strip
 the output cell contents from all checked in work. If you would like to contribute please make sure to add
-the following to your repository git/config:
+the following to your repository **.git/config**:
 
     [filter "stripoutput"]
         clean = "path/to/strip_notebook_output"
