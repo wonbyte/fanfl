@@ -29,6 +29,8 @@ def strip_output(nb):
             cell['outputs'] = []
         if 'execution_count' in cell:
             cell['execution_count'] = 0
+    if 'signature' in nb.metadata:
+        nb.metadata['signature'] = ""
     return nb
 
 if __name__ == '__main__':
