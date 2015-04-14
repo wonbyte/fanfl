@@ -11,7 +11,7 @@ This work represents our own views and not that of our companies.
 This tutorial will require recent installations of *numpy*, *scipy*,
 *matplotlib*, *scikit-learn*, *seaborn*, *pandas*, *tables*, *pyprind* and *ipython*.
 We have provided a bootstrap file that you can use with pip by running:
-    pip install -r bootstrap.txt^M
+    pip install -r bootstrap.txt
 
 The project also uses Python 3 and is not comptabile with Python 2.x
 
