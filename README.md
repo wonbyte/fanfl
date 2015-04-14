@@ -5,4 +5,4 @@
 1.  Walmart, USA
 2.  HörSys GmbH, Hannover, Germany
 
-This work represents our own views are not that of our companies.
+This work represents our own views and not that of our companies.
