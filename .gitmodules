@@ -1,0 +1,3 @@
+[submodule "nflgame"]
+	path = nflgame
+	url = git@github.com:samueljohn/nflgame.git
