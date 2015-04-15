@@ -18,7 +18,7 @@ with pip, a relatively painless way to install all the requirements is to use
 [Anaconda](http://www.continuum.io/downloads#py34 "Anaconda"), which can be
 downloaded and installed for free.
 
-**Note:** 
+**Note:**
 We store the output of our algorithm as hdf5. Right now the file is to large to
 keep on github. You will either need to generate the file locally from the ipython notebook (around ~2hrs to complete)
 or pull the file from dropbox (https://www.dropbox.com/s/m7netysyu0qx6mz/data.h5?dl=0).
@@ -39,7 +39,7 @@ You can clone the material in this tutorial by using the git address shown below
 We will actively be making changes to the repository and welcome any and all pull requests
 that help to enhance the project. If you have any questions please feel free to contact either of
 us. In order to keep the ipython notebooks manageable in git, we are using a git attribute to strip
-the output cell contents from all checked in work. If you would like to contribute please make sure 
+the output cell contents from all checked in work. If you would like to contribute please
     
     cd fanfl
     source setup_git_strip_notebook_output_filter.sh

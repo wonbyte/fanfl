@@ -8,3 +8,7 @@ pip-selfcheck.json
 share/*
 fanfl_old.ipynb
 *.h5
+CHANGELOG.txt
+LICENSE.txt
+README.html
+examples/
